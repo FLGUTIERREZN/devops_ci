@@ -8,6 +8,8 @@ Esto es un cambio producido en la rama feature/addtest
 version nueva, DE LUJO
 APROBADA
 ver 1.2
+nuevos cambios en la rama feature
+ver 2.0 listo
 
 
 
