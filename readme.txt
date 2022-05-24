@@ -13,6 +13,8 @@ ver 2.0 listo
 
 Comienza la actividad. He configurado Slack Notification. 
 Estoy haciendo un cambio para subir a github
+Los cambios son aprobados. 
+Ver 3.0
 
 
 
