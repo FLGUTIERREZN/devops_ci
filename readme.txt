@@ -11,6 +11,9 @@ ver 1.2
 nuevos cambios en la rama feature
 ver 2.0 listo
 
+Comienza la actividad. He configurado Slack Notification. 
+Estoy haciendo un cambio para subir a github
+
 
 
 
